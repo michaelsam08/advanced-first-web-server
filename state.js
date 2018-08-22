@@ -1,9 +1,9 @@
 exports.users = [
     {
         "_id": 1,
-        "name": "Dale Cooper",
-        "occupation": "FBI Agent",
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/5/50/Agentdalecooper.jpg"
+        "name": "Donny Trumpy",
+        "occupation": "Clown",
+        "avatar": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK5OeQ5NvcAhUPSK0KHdgGD0oQjRx6BAgBEAU&url=http%3A%2F%2Fpriceofoil.org%2F2016%2F11%2F21%2Fmeet-donald-the-climate-clown%2F&psig=AOvVaw3WQpDhO1pQ7SGazFfWHCg3&ust=1533760129438497"
     },
     {
         "_id": 2,
